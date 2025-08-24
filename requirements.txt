@@ -6,3 +6,4 @@ seaborn
 Pillow
 streamlit
 joblib
+scikit-learn
